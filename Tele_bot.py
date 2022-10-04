@@ -12,7 +12,7 @@ gc = gspread.service_account()
 def send_welcome(message):
     bot.send_photo(message.chat.id, photo=photo_url, caption='<b>Включен</b>', parse_mode='html')
     bot.reply_to(message,
-                 "Привет, я буду записивать ваши расходы в таблицу. Введите расход через дефис в виде [КАТЕГОРИЯ-ЦЕНА]:")
+                 "Привет, я буду вести расходы в гугл таблицы, введите данные таким образом [КАТЕГОРИЯ-ЦЕНА]:")
 
 
 @bot.message_handler(content_types=["text"])

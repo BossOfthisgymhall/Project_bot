@@ -1,0 +1,3 @@
+Храниться Json файл должен в %%Appdata\Roaming\gspread
+В моем случае путь такой:
+C:\Users\vanya\AppData\Roaming\gspread

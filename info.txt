@@ -1,3 +1,4 @@
 Храниться Json файл должен в %%Appdata\Roaming\gspread
 В моем случае путь такой:
 C:\Users\vanya\AppData\Roaming\gspread
+https://docs.google.com/spreadsheets/d/1QOLyt1025gAAd7ZFsqwH6_fH41VVprVag2AuHmtaBvk/edit#gid=0 ссылка на мою таблицу

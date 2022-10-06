@@ -1,5 +1,4 @@
 import telebot
-import requests
 from datetime import date
 import gspread
 
